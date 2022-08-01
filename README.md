@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A passionate full stack developer living in London</h3>
 
-- 👨‍💻 I’m currently working on my portfolio (www.tombrookes.dev) If you want to snoop, you can check out my public repo.
+👨‍💻 I’m currently working on my portfolio (www.tombrookes.dev). 
+<br>
+If you want to snoop, you can check out my public repo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
