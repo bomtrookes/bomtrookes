@@ -13,5 +13,5 @@
 <div align="center">
   <h3>100 Days of Code</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bomtrookes" alt="Tom's GitHub Streak" />
-  <p>I'm currently making a Movie Ratings app - <a href="https://cinefix.herokuapp.com">ReelScore</a></p>
+  <p>I'm currently making a Movie Ratings app - <a href="https://cinefix.herokuapp.com" target="_blank">ReelScore</a></p>
 </div>
