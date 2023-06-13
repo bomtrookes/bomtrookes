@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Tom 👋</h1>
 <h3 align="center">I'm a developer living in London</h3>
-<p align="center"><a style="color:grey" href="https://tombrookes.dev">Check out my portfolio</a></p>
+<p align="center"><a href="https://tombrookes.dev">Check out my portfolio</a></p>
 <hr>
 <h3 align="center">Connect with me on LinkedIn</h3>
 <p align="center">
